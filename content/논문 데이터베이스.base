@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.folder == "papers"
+    order:
+      - file.name
+      - year
+      - rating
+      - summary
+      - tags
+    sort:
+      - property: rating
+        direction: DESC
+      - property: tags
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: year
+        direction: ASC
+    columnSize:
+      file.name: 533
+      note.rating: 93
+      note.summary: 323
+      note.tags: 552
