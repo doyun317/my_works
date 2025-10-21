@@ -16,6 +16,7 @@ tags:
   - video
   - text
   - contrastive_learning
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 #### **1. 모달리티 내(Intra-modality) 관계 학습의 중요성**

@@ -16,6 +16,7 @@ tags:
   - chunking
   - retrieval
   - RAG
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 구조적 요소를 인식해서 청킹을 하면 기본 고정 크기 방식보다 좋다.

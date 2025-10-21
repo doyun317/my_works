@@ -18,6 +18,7 @@ tags:
   - chunking
   - CLIP
   - vision
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 텍스트 토큰이 너무 많으니까 LLM으로 처리하지 않고 이미지로 1차 처리 후 재 구성하는 방법

@@ -15,6 +15,7 @@ tags:
   - CoT
   - Hallucination
   - agent
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 인간이 효율적이라고 생각하는 방법을 LLM에 적용시키면 보통 맞더라.

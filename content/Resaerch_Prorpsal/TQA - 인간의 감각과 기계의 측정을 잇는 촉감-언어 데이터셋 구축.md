@@ -15,6 +15,7 @@ tags:
   - text
   - dataset
   - timeseries
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - RoboVQA를 보고 떠오른 연구 제안서이다.

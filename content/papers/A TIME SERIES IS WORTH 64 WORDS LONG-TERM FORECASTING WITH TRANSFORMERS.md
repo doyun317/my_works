@@ -14,6 +14,7 @@ tags:
   - timeseries
   - Transfromer
   - SSL
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 단변량보단 다변량 데이터를 처리하는데 더 중점을 두는 모델이긴 하다.

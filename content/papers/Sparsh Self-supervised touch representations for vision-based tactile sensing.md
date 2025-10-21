@@ -18,6 +18,7 @@ tags:
   - MaskedAE
   - SSL
   - tactile
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 

@@ -13,6 +13,7 @@ tags:
   - paper
   - llm
   - agent
+draft: "false"
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 + 결론적으로 에이전트가 하는 행동을 아예 실행 가능한 파이썬 코드로 바꾼 것
