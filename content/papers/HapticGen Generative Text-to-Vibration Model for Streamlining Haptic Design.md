@@ -16,7 +16,7 @@ tags:
   - haptic
   - audio
   - genertaion
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 진동데이터라는 생소한 분야를 잘 파고들어 좋은 모델과 논문을 낸 것 같다.

@@ -17,7 +17,7 @@ tags:
   - CLIP
   - text
   - embedding
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 각 모달마다 만들어진 인코더가 잘 존재하고 있으니 그걸 써먹으려면 UMM을 쓰자.

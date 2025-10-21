@@ -15,7 +15,7 @@ tags:
   - text
   - tactile
   - dataset
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - **필요한 3가지 데이터를 모두 제공**:

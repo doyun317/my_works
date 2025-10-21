@@ -15,7 +15,7 @@ tags:
   - Mamba
   - llm
   - text
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - LTI 시스템에 대해 이해가 있어야 모델 파악이 쉽다.

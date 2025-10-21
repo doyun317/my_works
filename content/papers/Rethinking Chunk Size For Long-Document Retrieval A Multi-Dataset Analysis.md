@@ -16,7 +16,7 @@ tags:
   - chunking
   - retrieval
   - RAG
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 사실 당연한 이야기인 데이터셋 특성에 따라 최적 청크는 달라진다는걸 실험으로 밝혀낸 논문

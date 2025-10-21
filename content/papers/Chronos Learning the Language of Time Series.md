@@ -13,7 +13,7 @@ tags:
   - paper
   - timeseries
   - FM
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 + 시계열 FM도 LLM처럼 제로샷으로 잘 되었으면 좋겠다.

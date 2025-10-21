@@ -15,7 +15,7 @@ tags:
   - video
   - text
   - contrastive_learning
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - 역시 사람이 직접 데이터셋을 만들고 매핑시키는게 가장 효율적이구나

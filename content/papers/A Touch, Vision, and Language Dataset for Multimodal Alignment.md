@@ -19,7 +19,7 @@ tags:
   - LoRA
   - Encoder
   - Decoder
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 

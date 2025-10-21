@@ -15,7 +15,7 @@ tags:
   - llm
   - text
   - Mamba
-draft: "false"
+draft: false
 ---
 ## 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - transformer 모델 쓸때는 확실히 대용량 시계열은 부담스러웠다.

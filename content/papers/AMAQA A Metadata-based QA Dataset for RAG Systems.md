@@ -14,7 +14,7 @@ tags:
   - llm
   - chunking
   - text
-draft: "false"
+draft: false
 ---
 ### 🧐 나의 생각 / 비판 (My Thoughts / Critiques)
 - RAG 검색 품질을 극대화하기 위해, 시스템의 연산 비용이 허용하는 한도 내에서 LLM 기반 시맨틱 메타데이터를 청킹에 통합하는 것이 효과적이다.
