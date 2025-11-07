@@ -4,7 +4,7 @@ status: read
 authors:
   - 권도윤
 year: 2025
-rating: 0
+rating: 3
 projects:
   - AgenticAI
 summary: 하나의 큰 llm 모델을 활용하기보다 여러개를 쪼개서 구상해보자
